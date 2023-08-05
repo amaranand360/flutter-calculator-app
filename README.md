@@ -25,7 +25,7 @@ Follow these instructions to run the calculator app on your local machine.
 1. Clone the repository:
 
    ```bash
-   git clone 
+   git clone https://github.com/amaranand360/flutter-calculator-app.git
    ```
 
 2. Navigate to the project directory:
@@ -66,4 +66,4 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## Contact
 
-If you have any questions or need further assistance, feel free to contact me at 
+If you have any questions or need further assistance, feel free to contact me at amar.anand0030@gmail.com
