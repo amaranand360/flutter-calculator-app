@@ -1,16 +1,69 @@
-# calculator_app
+# Flutter Calculator App
 
-A new Flutter project.
+This is a simple calculator app built using Flutter, a popular cross-platform mobile app development framework. The app allows users to perform basic arithmetic calculations in an intuitive and user-friendly interface.
+
+## Features
+
+- Addition, subtraction, multiplication, and division operations.
+- Clear button to reset the input and output.
+- Responsive design, suitable for various screen sizes.
+- Error handling for invalid inputs.
+
+## Screenshots
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Follow these instructions to run the calculator app on your local machine.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter SDK: [Installation Guide](https://flutter.dev/docs/get-started/install)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone 
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd calculator_app
+   ```
+
+3. Run the app on your connected device (emulator or physical device):
+
+   ```bash
+   flutter run
+   ```
+
+## How to Use
+
+1. Launch the app on your device.
+
+2. Enter numbers using the provided buttons.
+
+3. Select the desired arithmetic operation (+, -, *, or /).
+
+4. The result will be displayed on the screen.
+
+5. To clear the input and output, tap the "C" button.
+
+## Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or create a pull request.
+
+1. Fork the repository from the `main` branch.
+
+2. Create a new branch with a descriptive name for your feature or bug fix.
+
+3. Make your changes and test thoroughly.
+
+4. Submit a pull request explaining the changes you've made.
+
+## Contact
+
+If you have any questions or need further assistance, feel free to contact me at 
